@@ -1,4 +1,5 @@
-## Hi there 👋
+## About me:
+  I am currently a student at Tufts University studying computer science in the school of engineering. I am a web designer for peeking, a startup app which utilizes AI to help match employers to potential employees. I made websites for multiple non-profit organizations and am still working with them today.
 
 <!--
 **ArbertXu/ArbertXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
